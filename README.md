@@ -14,13 +14,6 @@ Technologies Used
 
 Results
 
-Installation
-
-Usage
-
-Contributing
-
-License
 ## Overview
 
 The Movie Recommendation System is designed to recommend movies to users based on past ratings and preferences. By analyzing user data and movie attributes, the system provides personalized recommendations, combining collaborative filtering and content-based filtering approaches.
